@@ -1,51 +1,74 @@
 # 🎧 Spotify AI Support Agent
 
-An NLP project that classifies Spotify customer support tweets into support intents using TF-IDF and Logistic Regression.
+An end-to-end Natural Language Processing (NLP) project that classifies Spotify customer support tweets into support intents using **TF-IDF** and **Logistic Regression**.
 
-## Features
+## 🚀 Features
 
-- Cleaned real Spotify support tweets
-- Manually labeled 50 tweets into 3 intents
-- TF-IDF text vectorization
-- Logistic Regression classifier
-- Confusion Matrix evaluation
-- Saved trained model for inference
+* Cleaned and preprocessed real Spotify support tweets
+* Manually annotated 50 customer support tweets
+* Built a TF-IDF text vectorization pipeline
+* Trained a Logistic Regression intent classifier
+* Evaluated the model using Precision, Recall, F1-score & Confusion Matrix
+* Exported the trained model for future inference
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- Python
-- Pandas
-- Scikit-learn
-- TF-IDF
-- Logistic Regression
-- Matplotlib
-- Jupyter Notebook
+* Python
+* Pandas
+* Scikit-learn
+* TF-IDF Vectorizer
+* Logistic Regression
+* Matplotlib
+* Joblib
+* Jupyter Notebook
 
-## Project Structure
+## 📁 Project Structure
 
-data/
-├── raw/
-├── golden_set.csv
+```text
+hiver-ai-support-agent/
+│
+├── data/
+│   ├── raw/
+│   │   └── twcs.csv
+│   └── golden_set.csv
+│
+├── notebooks/
+│   ├── 01_exploration.ipynb
+│   ├── 02_golden_dataset.ipynb
+│   └── 03_train_model.ipynb
+│
+├── results/
+│   ├── confusion_matrix.png
+│   └── intent_model.pkl
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
 
-notebooks/
-├── 01_exploration.ipynb
-├── 02_golden_dataset.ipynb
-├── 03_train_model.ipynb
+## 📊 Model Performance
 
-results/
-├── confusion_matrix.png
-├── intent_model.pkl
+| Metric           |               Value |
+| ---------------- | ------------------: |
+| Algorithm        | Logistic Regression |
+| Vectorizer       |              TF-IDF |
+| Training Samples |           50 Tweets |
+| Intent Classes   |                   3 |
+| Accuracy         |          **36.36%** |
 
-## Model Performance
+### Confusion Matrix
 
-- Algorithm: Logistic Regression
-- Vectorizer: TF-IDF
-- Training Samples: 50 tweets
-- Classes: General Inquiry, Playback Issues, Premium Billing
-- Accuracy: **36.36%**
+![Confusion Matrix](results/confusion_matrix.png)
 
-## Future Improvements
+## 🔮 Future Improvements
 
-- Increase labeled dataset to 500+ tweets
-- Add more intent categories
-- Deploy as a Streamlit web application
+* Expand the labeled dataset to 500+ tweets
+* Add additional customer support intent categories
+* Experiment with transformer models (BERT/DistilBERT)
+* Deploy the classifier as a Streamlit web application
+
+## 👩‍💻 Author
+
+**Anjali Moka**
+
+Built as an NLP portfolio project for customer support intent classification.

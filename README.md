@@ -66,12 +66,15 @@ hiver-ai-support-agent/
 
 ## Model Performance
 
-| Metric         |               Value |
-| -------------- | ------------------: |
-| Algorithm      | Logistic Regression |
-| Vectorizer     |              TF-IDF |
-| Intent Classes |                   3 |
-| Accuracy       |          **36.36%** |
+## Model Performance
+
+| Metric | Value |
+|---|---:|
+| Algorithm | Logistic Regression |
+| Vectorizer | TF-IDF |
+| Intent Classes | 4 |
+| Accuracy | **53.33%** |
+| Test Samples | 30 |
 
 The confusion matrix is available in `results/confusion_matrix.png`.
 

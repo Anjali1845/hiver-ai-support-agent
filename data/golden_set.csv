@@ -1,26 +1,26 @@
 tweet_id,text,intent,escalate,notes
-1301944,@SpotifyCares Best response ever! Me @ the use of that song https://t.co/TpgOEZyFhe,General Inquiry,No,Positive feedback
-1380867,"@SpotifyCares Spotify Student + Hulu renews tomorrow, but my Hulu is wanting me to pay up to watch anything today. Obviously, renewing the sub tomorrow, so what gives? Why has the Hulu side of things cut me off?",Premium Billing,Yes,
+1301944,@SpotifyCares Best response ever! Me @ the use of that song https://t.co/TpgOEZyFhe,General Inquiry,No,positive feedback
+1380867,"@SpotifyCares Spotify Student + Hulu renews tomorrow, but my Hulu is wanting me to pay up to watch anything today. Obviously, renewing the sub tomorrow, so what gives? Why has the Hulu side of things cut me off?",Premium Billing,No,billing inquiry
 1790160,"@SpotifyCares I just dumped the whole thing. I'd expect its your job to figure this out, isn't it. 
-I'd expect some auto-updater left over garbage coupled with audio cache. But who knows",Playback Issues,No,audio cache bug
-1814781,"@SpotifyCares my band's ""related artists"" section just disappeared :( why tho spotify:artist:0gI3tMeaM9sOpBtXulMbAh",Playback Issues,No,related artists missing
-254988,"@SpotifyCares Uh no....that""s not an answer. Give me, and you other customers that have been asking for this for 5 years, the REASON why you don't provide this when every other music streaming service does. Answer?",General Inquiry,No,feature request
-1244355,@SpotifyCares Ummm...so it still says Would instead of Wound. #SecondhandEmbarassment.,Playback Issues,No,metadata bug
-1049686,"@SpotifyCares They don't have an account so it says their email address is invalid, I invited them to join through my log in via email",Login & Account Access,No,login issues
-1124160,"@SpotifyCares Yep! And individual songs, are fine just the daily mixes glitches out. i logged into the test account that u guys had me try. No problems",General Inquiry,No,positive feedback
-9358,@SpotifyCares I'm new at this how do i DELETE and what's dm,General Inquiry,No,new user
-967401,@SpotifyCares But I have done the reset function and it still hasn’t worked 😢 https://t.co/vU6OHkIurZ,Playback Issues,No,app bug
-244331,@SpotifyCares I used to have premium till it started to do that,Premium Billing,Yes,premium lost
-1427798,@SpotifyCares iOS 11.2 (beta) spotify 8.4.26.793,Playback Issues,No,Provided iOS & app version
-61516,@115888 @SpotifyCares I’ve been listening to @3400 for four years loop masterpiece “9” every morning why haven’t I got presale code?,General Inquiry,No,presale code inquiry
-1579277,@SpotifyCares HA! Right now you're https://t.co/OnTOem70Zr,General Inquiry,No,unclear context
-2383568,"@SpotifyCares W/ your follow up to my 2nd tweet, presently there's no issues b/c generally I can cope with no solution (aka forget about it). I just find it sad that it's presented to the users that Spotify never seems to add features, esp. when there's PLENTY of support thrown behind it. +",General Inquiry,No,feature request
+I'd expect some auto-updater left over garbage coupled with audio cache. But who knows",Playback Issues,No,cache issue
+1814781,"@SpotifyCares my band's ""related artists"" section just disappeared :( why tho spotify:artist:0gI3tMeaM9sOpBtXulMbAh",General Inquiry,No,"disappeared ""related artists"""
+254988,"@SpotifyCares Uh no....that""s not an answer. Give me, and you other customers that have been asking for this for 5 years, the REASON why you don't provide this when every other music streaming service does. Answer?",General Inquiry,No,requesting explanation
+1244355,@SpotifyCares Ummm...so it still says Would instead of Wound. #SecondhandEmbarassment.,General Inquiry,No,content correction request
+1049686,"@SpotifyCares They don't have an account so it says their email address is invalid, I invited them to join through my log in via email",General Inquiry,No,account invitation request
+1124160,"@SpotifyCares Yep! And individual songs, are fine just the daily mixes glitches out. i logged into the test account that u guys had me try. No problems",Playback Issues,No,daily mix glitch 
+9358,@SpotifyCares I'm new at this how do i DELETE and what's dm,General Inquiry,No,delete & dm
+967401,@SpotifyCares But I have done the reset function and it still hasn’t worked 😢 https://t.co/vU6OHkIurZ,Playback Issues,No,reset failed
+244331,@SpotifyCares I used to have premium till it started to do that,Playback Issues,No,premium playback issue
+1427798,@SpotifyCares iOS 11.2 (beta) spotify 8.4.26.793,General Inquiry,No,version info
+61516,@115888 @SpotifyCares I’ve been listening to @3400 for four years loop masterpiece “9” every morning why haven’t I got presale code?,General Inquiry,No,missing presale code
+1579277,@SpotifyCares HA! Right now you're https://t.co/OnTOem70Zr,General Inquiry,No,sarcastic complaint
+2383568,"@SpotifyCares W/ your follow up to my 2nd tweet, presently there's no issues b/c generally I can cope with no solution (aka forget about it). I just find it sad that it's presented to the users that Spotify never seems to add features, esp. when there's PLENTY of support thrown behind it. +",General Inquiry,No,feature frustration
 1756658,"@SpotifyCares 
-It won’t let me play songs on mobile😬help please https://t.co/47QoaHN7Y9",Playback Issues,No,audio bug
-301658,@SpotifyCares You should be replying to @187968. He's the one whose music is being uploaded to your site fraudulently.,General Inquiry,Yes,fraudulent upload
-48130,@SpotifyCares 1972mazz is one of them. It doesnt have anything to do with the account. its the application on a macbook,Playback Issues,No,mac app issues
-2407009,@338880 @SpotifyCares Just do a family bundle with 6 people and all you'll have to pay is £15 per month that's only £2.50 each that's what I'm on and it's cheap just gather up 5 people who would want to join with you.,Premium Billing,No,family plan suggestion
-712183,"@SpotifyCares v1.0.65.320.gac7a8e02 - Thought it might be my internet, but haven't seen anything else having issues.",Playback Issues,No,connectivity issues
+It won’t let me play songs on mobile😬help please https://t.co/47QoaHN7Y9",Playback Issues,No,audio issue
+301658,@SpotifyCares You should be replying to @187968. He's the one whose music is being uploaded to your site fraudulently.,General Inquiry,Yes,fraudulent music upload
+48130,@SpotifyCares 1972mazz is one of them. It doesnt have anything to do with the account. its the application on a macbook,Playback Issues,No,mac book issue
+2407009,@338880 @SpotifyCares Just do a family bundle with 6 people and all you'll have to pay is £15 per month that's only £2.50 each that's what I'm on and it's cheap just gather up 5 people who would want to join with you.,Premium Billing,No,family plan issue
+712183,"@SpotifyCares v1.0.65.320.gac7a8e02 - Thought it might be my internet, but haven't seen anything else having issues.",General Inquiry,No,
 1790414,@SpotifyCares Love it! Good to know and thanks again for your time!,General Inquiry,No,positive feedback
 1516286,"@SpotifyCares I saved the song Gummo by 6ix9ine yesterday and it played, but for some reason it's not playing now. What's going on?",Playback Issues,No,song not playing
 1824347,@SpotifyCares DM sent,General Inquiry,No,dm confirmation
@@ -29,28 +29,28 @@ It won’t let me play songs on mobile😬help please https://t.co/47QoaHN7Y9",P
 468339,"@SpotifyCares I’ve been constantly trying to delete songs in my library but they always seem to come back. I’ve tried already the connect/disconnect method that I was first suggested. Also, it was stated that this is “odd” by the support group, even though if you google the...",Playback Issues,Yes,library sync bug
 1995570,"@SpotifyCares Mystreamcount arenot updated for my songYour BeautifulFace to my aggregater
 as they are saying spotify has notgiven themreport",General Inquiry,Yes,stream count missing
-435877,@218539 @SpotifyCares Problem network je ni 😶,Playback Issues,No,network issue
-1883964,@SpotifyCares ion wanna read your content miss me with that shit,General Inquiry,No,marketing content missing
-2834979,@SpotifyCares any way to get play/pause button working again with OSX 10.13?,Playback Issues,No,OSX play pause bug
-2507490,@SpotifyCares Awesome! Hope to see the update soon! 🙌🏼,General Inquiry,No,positive feedback
+435877,@218539 @SpotifyCares Problem network je ni 😶,Playback Issues,No,network issues
+1883964,@SpotifyCares ion wanna read your content miss me with that shit,General Inquiry,No,marketing content compliant
+2834979,@SpotifyCares any way to get play/pause button working again with OSX 10.13?,Playback Issues,No,OSX play bug issue
+2507490,@SpotifyCares Awesome! Hope to see the update soon! 🙌🏼,General Inquiry,No,update request
 1993460,@SpotifyCares Sounds great! Just wanted to bring it to someone’s attention in case it wasn’t already discovered.,General Inquiry,No,bug report
 2251358,hey @SpotifyCares y’all double charged my account this month and i can’t figure out how else to resolve this matter. could y’all DM me?,Premium Billing,Yes,double charge
-2714235,@SpotifyCares No,General Inquiry,No,insuffiecent content
-2479188,"@SpotifyCares I guess spotify cares for only 1 message, i am still waiting your reply",General Inquiry,No,waiting for reply
-1269705,"@SpotifyCares Samsung Galaxy s6, Android 7.0, and Spotify 8.4.24",General Inquiry,No,phone and app version info
-1641065,@115888 @SpotifyCares guys there is a problem with one of your playlists!,Playback Issues,No,playback issue
-723048,@SpotifyCares No. I already tried that...,Playback Issues,No,trobleshooting failed
+2714235,@SpotifyCares No,General Inquiry,No,troubleshooting failed
+2479188,"@SpotifyCares I guess spotify cares for only 1 message, i am still waiting your reply",General Inquiry,No,waiting for response 
+1269705,"@SpotifyCares Samsung Galaxy s6, Android 7.0, and Spotify 8.4.24",General Inquiry,No,version info
+1641065,@115888 @SpotifyCares guys there is a problem with one of your playlists!,Playback Issues,No,playlist issue
+723048,@SpotifyCares No. I already tried that...,Playback Issues,No,troubleshooting failed
 1906842,@115888 @SpotifyCares,General Inquiry,No,mention only
-2338258,"@SpotifyCares okay cool, thank you!",General Inquiry,No,positive feedback
+2338258,"@SpotifyCares okay cool, thank you!",General Inquiry,No,feedback
 337531,"@SpotifyCares But that thread is from March. It's been 7 months so I'm not ""rest assured"" this is going to be resolved anytime in the near future.",General Inquiry,No,resolution delay
 351223,@SpotifyCares Why,General Inquiry,No,clarification request
 2355331,@SpotifyCares I upgraded to Premium for Family but it’s saying the address is wrong to add family members. I don’t think I ever got prompted to enter an address?,Premium Billing,Yes,family address error
-488777,"@SpotifyCares I'm suddenly unable to log into my account on either desktop or iPhone. When I tried to enter my password, it wasn't recognizing that there was an account associated with my user name.",Login & Account Access,No,account inqiury
-1148117,@SpotifyCares My music keeps stuttering/skipping ever since I upgraded to iOS 11... tried reinstalling but it doesn’t fix it,Playback Issues,Yes,iOS stuttering
+488777,"@SpotifyCares I'm suddenly unable to log into my account on either desktop or iPhone. When I tried to enter my password, it wasn't recognizing that there was an account associated with my user name.",Login & Account Access,No,login failed
+1148117,@SpotifyCares My music keeps stuttering/skipping ever since I upgraded to iOS 11... tried reinstalling but it doesn’t fix it,Premium Billing,Yes,iOS stuttering
 2902825,@SpotifyCares I have a US premium account.,Premium Billing,No,US premium account
-867588,@SpotifyCares I'm on macOs 10.12.5 and Chrome 61.0.3163.100,Playback Issues,No,macOs chrome version info
-2504270,@SpotifyCares How do you copy URI on @115888 ?,General Inquiry,No,copy URL help
-187640,"@SpotifyCares 1st in playlist playing song 28, 2nd playing 111th song in playlist , always the same things",Playback Issues,No,playlist order bug
+867588,@SpotifyCares I'm on macOs 10.12.5 and Chrome 61.0.3163.100,Playback Issues,No,macOS chrome version info
+2504270,@SpotifyCares How do you copy URI on @115888 ?,General Inquiry,No,copy url help
+187640,"@SpotifyCares 1st in playlist playing song 28, 2nd playing 111th song in playlist , always the same things",Playback Issues,No,playlist and audio bug
 442003,"""You can get a family plan for cheaper.""
 ""Will kids lose current lists?""
 ""Hmm good Q, maybe @SpotifyCares knows""  #overheardinnyc",Premium Billing,No,family plan question
@@ -59,110 +59,110 @@ as they are saying spotify has notgiven themreport",General Inquiry,Yes,stream c
 [ To: @SpotifyCares @116130 @117168 @126761 @2069 @191335 @22875 ]
 
 https://t.co/yZInuR6eBi",General Inquiry,No,playlist addition request
-698862,"@SpotifyCares unfortunately, this didn't work either. :( really missing my spotify during the work day!",,,
-1805582,@SpotifyCares Did you take away the place on the artists' page that shows which playlists they are featured in? I always found that helpful,,,
-2080863,"@SpotifyCares then when I go to that account associated with my email, it won’t let me use it as a student 2/2",,,
-1261987,"Hi @SpotifyCares - webplayer not working for me. Have tried various browsers, cache deletes etc. Any known issues at present? Thx",,,
-1870176,@SpotifyCares I signed up for student premium but I'm still receiving ads. Any help?,,,
+698862,"@SpotifyCares unfortunately, this didn't work either. :( really missing my spotify during the work day!",Playback Issues,No,troubleshooting failed
+1805582,@SpotifyCares Did you take away the place on the artists' page that shows which playlists they are featured in? I always found that helpful,General Inquiry,No,playlist feature removed
+2080863,"@SpotifyCares then when I go to that account associated with my email, it won’t let me use it as a student 2/2",Login & Account Access,No,login issue
+1261987,"Hi @SpotifyCares - webplayer not working for me. Have tried various browsers, cache deletes etc. Any known issues at present? Thx",Playback Issues,No,web player issue
+1870176,@SpotifyCares I signed up for student premium but I'm still receiving ads. Any help?,Premium Billing,No,student premium ads
 860922,"@SpotifyCares 
 
 my daily mix keeps stopping for no reason. it’s not my internet connection.
 
-help please. thanks.",,,
-1272625,"@SpotifyCares When playing a playlist on Wi-Fi or mobile data, it refuses to play the radio based off the playlist, I have made sure it's switched on.",,,
-1098089,@115888 @117168 @SpotifyCares I 'm trying to update my payment options bc I got a new credit card and reregister my premium account and I keep getting the oops your card is having a bad day. please help me!!!,,,
-2593448,"Make the JLS discography available in Argentina, I'm getting tired of your broken promithes promithes. @SpotifyCares https://t.co/fD0z1ukXql",,,
-2138977,"@SpotifyCares Another app updated, no iPhone X full screen support. What the hell are you guys playing at?!?! You’re a massive company, even the small app companies have iPhone X full screen support. You need to up your game right away or I’m going to simply switch to Apple Music. Disgusting!",,,
-2859016,@115888 @SpotifyCares  what has happened to the layout on the iPhone app.  Is this to do with the zoom view? This is now unusable. https://t.co/BeClKHvKcv,,,
-567969,@SpotifyCares This video shows it https://t.co/7qjdKJJeGH,,,
-887918,@SpotifyCares Im on an iphone 6+ btw,,,
-1181057,@SpotifyCares is there a way to listen to Spotify on xbox one without the music coming through the Elgato?? @21330 @XboxSupport,,,
-578114,@SpotifyCares I already replied. Thanks!,,,
-1942605,"@SpotifyCares my acct keeps telling me I can’t download any more songs, so I un-downloaded a bunch but it’s still saying I have no room :(",,,
-2069987,"@SpotifyCares hello, I want to transfer the ownership for my premium family account but I can't access my previous account. what to do?",,,
-566276,@SpotifyCares macOS High Sierra 10.13.2 Public Beta (Build 17C79a). Spotify 1.0.68.407.g6864aaaf.,,,
-944371,@SpotifyCares @115888 @SpotifyCares,,,
-2391979,@SpotifyCares @688879 It’s getting beyond a joke now. Your developers have had since June to get the app ready. Really is shameful.,,,
-753972,@SpotifyCares __email__,,,
-1517203,"@SpotifyCares This only works if you format the SD card as ""portable storage"", which is how I have it on my phone, I opted for int fmt with my new device.",,,
-1725333,@SpotifyCares Which website should I link the song from?,,,
-1395871,@SpotifyCares I use chrome.,,,
-2439896,@SpotifyCares I'll have to have a go tomorrow night,,,
-2577795,"@SpotifyCares iPhone 7 Plus, iOS 11.0.2",,,
+help please. thanks.",Playback Issues,No,daily mix stops
+1272625,"@SpotifyCares When playing a playlist on Wi-Fi or mobile data, it refuses to play the radio based off the playlist, I have made sure it's switched on.",Playback Issues,No,playlist radio broken
+1098089,@115888 @117168 @SpotifyCares I 'm trying to update my payment options bc I got a new credit card and reregister my premium account and I keep getting the oops your card is having a bad day. please help me!!!,Premium Billing,No,paymethod method update
+2593448,"Make the JLS discography available in Argentina, I'm getting tired of your broken promithes promithes. @SpotifyCares https://t.co/fD0z1ukXql",General Inquiry,No,regional music request 
+2138977,"@SpotifyCares Another app updated, no iPhone X full screen support. What the hell are you guys playing at?!?! You’re a massive company, even the small app companies have iPhone X full screen support. You need to up your game right away or I’m going to simply switch to Apple Music. Disgusting!",General Inquiry,No,Iphone X support
+2859016,@115888 @SpotifyCares  what has happened to the layout on the iPhone app.  Is this to do with the zoom view? This is now unusable. https://t.co/BeClKHvKcv,General Inquiry,No,Iphone layout issue
+567969,@SpotifyCares This video shows it https://t.co/7qjdKJJeGH,General Inquiry,No,video shows issue
+887918,@SpotifyCares Im on an iphone 6+ btw,Playback Issues,No,Iphone 6+ device info
+1181057,@SpotifyCares is there a way to listen to Spotify on xbox one without the music coming through the Elgato?? @21330 @XboxSupport,Playback Issues,No,Xbox One audio output issue
+578114,@SpotifyCares I already replied. Thanks!,General Inquiry,No,Follow-Up acknowledgement
+1942605,"@SpotifyCares my acct keeps telling me I can’t download any more songs, so I un-downloaded a bunch but it’s still saying I have no room :(",Playback Issues,No,download linit reached
+2069987,"@SpotifyCares hello, I want to transfer the ownership for my premium family account but I can't access my previous account. what to do?",Login & Account Access,Yes,family ownship transfer
+566276,@SpotifyCares macOS High Sierra 10.13.2 Public Beta (Build 17C79a). Spotify 1.0.68.407.g6864aaaf.,Playback Issues,No,macbook version details
+944371,@SpotifyCares @115888 @SpotifyCares,General Inquiry,No,
+2391979,@SpotifyCares @688879 It’s getting beyond a joke now. Your developers have had since June to get the app ready. Really is shameful.,General Inquiry,No,app stability complaint
+753972,@SpotifyCares __email__,General Inquiry,No,email provided
+1517203,"@SpotifyCares This only works if you format the SD card as ""portable storage"", which is how I have it on my phone, I opted for int fmt with my new device.",Playback Issues,No,SD card storage issue
+1725333,@SpotifyCares Which website should I link the song from?,General Inquiry,No,Song link inquiry
+1395871,@SpotifyCares I use chrome.,Playback Issues,No,Browser information provided
+2439896,@SpotifyCares I'll have to have a go tomorrow night,General Inquiry,No,Will try later
+2577795,"@SpotifyCares iPhone 7 Plus, iOS 11.0.2",Playback Issues,No,Iphone version details
 1760771,"@SpotifyCares Here you go. Does not show up in search results but it was still in my play history:
-https://t.co/0qgC65wAx9",,,
-2442033,@SpotifyCares could you get involved with this please? Thinking of going to Apple Music otherwise. https://t.co/fTITdyHp6q cheers.,,,
-1532345,@SpotifyCares I shall drop you a DM in a bit. Seems to be happening to others though looking online and the Spotify forum thingy!,,,
-1869192,@SpotifyCares I tried that when I first noticed the other day. It reappeared after a few days. First on Radio page. Each station thumbnail pulsed/flashed https://t.co/5fDCAXnhNj,,,
-1471773,"@SpotifyCares I have an iPhone 6, with iOS 11.0.2 software. The version of Spotify I have is 8.4.20.535",,,
-1943158,"@SpotifyCares The sound was coming from the banner ads, which is why I was confused. I'm not sure which version I have now, how would I check?",,,
-1275676,@SpotifyCares hi! I've been trying to DM you guys about my artist verification. Can someone help me out? Thanks!,,,
-2283776,@663683 @663680 @118266 @SpotifyCares anak radio sw emang gak cocok make spotify..,,,
-1972504,@SpotifyCares I want to delete an old account that I no longer have access to through email and forgot the password 😔,,,
-2795587,"@SpotifyCares It’s all good guys, it’s working now! Thank you for responding anyways👍🏻",,,
-323065,@SpotifyCares Thank you! OS - 10.11.6 Spotify version - 1.0.65.320.gac7a8e02,,,
-997196,@SpotifyCares @356133 same here 504 Gateway Time-out,,,
-369857,"@SpotifyCares My student discount/hulu isn't working even after doing the steps in the FAQ, what's your email?",,,
-1117796,what yall doing about this @SpotifyCares https://t.co/lD1ervQbPn,,,
-1670459,@SpotifyCares Looks ok so far.....,,,
-336728,"@SpotifyCares Hey is there a way to change the Family Administrator name (ie, the name who the invite comes from)?",,,
-337084,Hey @115888 I want to auto-block edited versions of songs. It's impossible to enjoy @16197 &amp; @16198 edited. @SpotifyCares,,,
-629905,@SpotifyCares I hope that this time it will take less than 8 months! 😉 https://t.co/zwzobGJvME,,,
-1695040,@SpotifyCares Hello. The web player's been on and off all day. https://t.co/Jk9rXvcPIn,,,
-315114,@SpotifyCares That fixed it! Thanks a lot and have a nice day/night! https://t.co/iNocKhGgLv,,,
-416823,@SpotifyCares so as frustrating as you guys are they did an awesome job at helping Thankyou again 🤷‍♀️🤷‍♀️🤷‍♀️🙌🙌🙌,,,
-1703341,"Dear @115888 @SpotifyCares I will (and others too) really appreciate it if you can let us download more, will you? Please! https://t.co/PBxbpiGUKj",,,
-2653035,@SpotifyCares Why is my music on my phone randomly pausing and say it's playing suggested songs rather than the playlist I asked for?,,,
+https://t.co/0qgC65wAx9",Playback Issues,No,Song missing from search
+2442033,@SpotifyCares could you get involved with this please? Thinking of going to Apple Music otherwise. https://t.co/fTITdyHp6q cheers.,General Inquiry,No,service dissatification complaint
+1532345,@SpotifyCares I shall drop you a DM in a bit. Seems to be happening to others though looking online and the Spotify forum thingy!,General Inquiry,No,Will send DM later
+1869192,@SpotifyCares I tried that when I first noticed the other day. It reappeared after a few days. First on Radio page. Each station thumbnail pulsed/flashed https://t.co/5fDCAXnhNj,Playback Issues,No,Radio page flasking bug
+1471773,"@SpotifyCares I have an iPhone 6, with iOS 11.0.2 software. The version of Spotify I have is 8.4.20.535",Playback Issues,No,version details
+1943158,"@SpotifyCares The sound was coming from the banner ads, which is why I was confused. I'm not sure which version I have now, how would I check?",Playback Issues,No,Banner ad audio bug
+1275676,@SpotifyCares hi! I've been trying to DM you guys about my artist verification. Can someone help me out? Thanks!,General Inquiry,Yes,Artist vertification support
+2283776,@663683 @663680 @118266 @SpotifyCares anak radio sw emang gak cocok make spotify..,Playback Issues,No,Radio playback complaint
+1972504,@SpotifyCares I want to delete an old account that I no longer have access to through email and forgot the password 😔,Login & Account Access,Yes,delete inaccessible account
+2795587,"@SpotifyCares It’s all good guys, it’s working now! Thank you for responding anyways👍🏻",General Inquiry,No,"Issue resolved, thanks"
+323065,@SpotifyCares Thank you! OS - 10.11.6 Spotify version - 1.0.65.320.gac7a8e02,Playback Issues,No,version info
+997196,@SpotifyCares @356133 same here 504 Gateway Time-out,Playback Issues,No,504 gateway Timeout
+369857,"@SpotifyCares My student discount/hulu isn't working even after doing the steps in the FAQ, what's your email?",Premium Billing,Yes,Student discount hulu issue
+1117796,what yall doing about this @SpotifyCares https://t.co/lD1ervQbPn,General Inquiry,No,Service issue complaint
+1670459,@SpotifyCares Looks ok so far.....,General Inquiry,No,Issue working now
+336728,"@SpotifyCares Hey is there a way to change the Family Administrator name (ie, the name who the invite comes from)?",Login & Account Access,No,Family admin name change
+337084,Hey @115888 I want to auto-block edited versions of songs. It's impossible to enjoy @16197 &amp; @16198 edited. @SpotifyCares,General Inquiry,No,Features request
+629905,@SpotifyCares I hope that this time it will take less than 8 months! 😉 https://t.co/zwzobGJvME,General Inquiry,No,Delayed fix complaint
+1695040,@SpotifyCares Hello. The web player's been on and off all day. https://t.co/Jk9rXvcPIn,Playback Issues,No,Web player intermittent outage
+315114,@SpotifyCares That fixed it! Thanks a lot and have a nice day/night! https://t.co/iNocKhGgLv,General Inquiry,No,"issue resolved, thanks support"
+416823,@SpotifyCares so as frustrating as you guys are they did an awesome job at helping Thankyou again 🤷‍♀️🤷‍♀️🤷‍♀️🙌🙌🙌,General Inquiry,No,Positive feedback
+1703341,"Dear @115888 @SpotifyCares I will (and others too) really appreciate it if you can let us download more, will you? Please! https://t.co/PBxbpiGUKj",General Inquiry,No,Download limit feature request
+2653035,@SpotifyCares Why is my music on my phone randomly pausing and say it's playing suggested songs rather than the playlist I asked for?,Playback Issues,No,Random pause suggested songs
 2175363,"@SpotifyCares Please pass on these thoughts!
-You're not yet letting users create true ""radio stations"" if it's just crossfaded (not segued) music with no control over timings and no host links - but.. you're SO close.. https://t.co/7Ua8IOADQo",,,
-150647,@SpotifyCares I have a £4.99/month student account. Why did you charge me £9.99 this month?!,,,
-547892,um @spotifycares why isnt pencey prep on spotify anymore pls put it back,,,
-2264775,@SpotifyCares Thank you for the reply!,,,
-2520094,@SpotifyCares My premium has been cancelled even though I have a receipt and paid for the month on the 26th of November. It won’t let me fix this and I am not happy.,,,
-1148107,@SpotifyCares i’ve noticed it does it when my service switches from 3G to LTE or vice versa. Or if I do anything involving the internet.,,,
-1238308,"@SpotifyCares Yes sir, thanks 👍",,,
-2853001,"@SpotifyCares For some reason, I can't log in, even though I typed in the correct username and password.",,,
-2624179,"hi @SpotifyCares, i can't change my nickname back to before i'd connected my account with Facebook. after disconnection it still doesnt work",,,
-2148243,@SpotifyCares https://t.co/liSOs0cies,,,
-2070414,"@SpotifyCares when I listen to Bon Iver, it plays their songs, but shows other artists’ album covers and info instead.",,,
-557258,"@SpotifyCares Hi. As of a few days ago, my Android Spotify app will no longer send music to my Sonos system. It shows the devices, selecting them does nothing. The Sonos app can send to Sonos.  I uninstalled and reinstalled both apps.",,,
-404756,"@SpotifyCares Any chance to in future add the option to sort the playlists one's following? As in: own pl's, spotify's, friends, ...?",,,
-311699,@SpotifyCares Thank you much,,,
-226788,"@SpotifyCares Already done that too, wayyy ahead of you. No joy.",,,
-2802531,@SpotifyCares Sent through DM!,,,
-1897298,@SpotifyCares thank you!,,,
-1037626,"@SpotifyCares iP 7 Plus, iP Pro 10,5 &amp; iPAir. All runs iOS 10.3.3. Even the tracks offline simply don't open. I noticed this only in this band all tracks",,,
-429658,"@SpotifyCares yep, i get that, but the only option is Chile... do i need to move to another country to actually change my country?",,,
-2718572,@SpotifyCares It happens on my xbox and samsung s7 edge and it should be the latest version of the app i tried a test account you gave me last time i said about the glitch and the same thing happened,,,
-2890051,@SpotifyCares What do you mean of mobile provider? https://t.co/FvdcOx5rwK,,,
-223054,@SpotifyCares  I have to pay if I want to not shuffle through my own personal music that I own from CDs? Are you serious?,,,
-2577781,"@SpotifyCares Yes, I saw it. thanks 😊",,,
-327154,"@SpotifyCares whenever I play music on Spotify, it doesn’t come up on the control Centre on my phone so can’t change songs when out the app?",,,
-2692972,@SpotifyCares just sent you you a request by DM. Let me know if you can help. Thanks,,,
-699076,@SpotifyCares It’s the worst thing i have ever experienced.,,,
-1643556,"@SpotifyCares hello spotify if you could please help me with this that would be great, i really need to listen to jessica simpson",,,
-1000265,@SpotifyCares Its saying 'It looks like you are using your Facebook credentials' so i log into my facebook to edited it and it still wont let me remove it,,,
-2051157,"@SpotifyCares hello, got an email that my email address was changed. I'm not behind the request. Can we DM?",,,
-2449893,@SpotifyCares What's the deal here? Why the cap? https://t.co/4H1k7jlxhf,,,
-2598008,"@SpotifyCares No error message, a little gray bar pops up at the bottom of the screen when I tap a song but it doesn’t play at all :(",,,
-2276880,@SpotifyCares Will do,,,
-1739272,@SpotifyCares Tack!,,,
-2110155,@SpotifyCares I don’t have Spotify on my desktop. How can I get you the information you need from the phone app,,,
-2653183,@SpotifyCares 8.4.26.770 arm v7 🤔,,,
-418214,"@SpotifyCares I used facebook to sign in before and now when I try logging in, it doesn't let me sign in with my facebook password nor my facebook itself.",,,
-2360629,@SpotifyCares I have an unknown device accessing my Spotify called “spotifyamb0.2.1” what should I do to make it so that the device can no longer connect???,,,
-1989704,2/2 is not from a country where Spotify is offered. This is clearly not true. Not sure if you don't want my business. @SpotifyCares,,,
-1490387,@SpotifyCares I finally fixed it by installing from the win10 app store ...,,,
-1352476,@SpotifyCares Even includes marching bands and drum lines. Thank you spotify.,,,
-833501,@SpotifyCares primo,,,
-1146229,"@SpotifyCares any reason that when I create playlists it says ""by 21egqp37obp2ybundetm6q7ya"" and not my name? how do I change this?",,,
-2277603,"@SpotifyCares Yes, have over 500 songs on one and there’s no easy way to get from top to bottom.",,,
-2414538,@694027 @115888 @SpotifyCares updated to today’s version and the app just crashes on my X. sucks.,,,
-341107,"@SpotifyCares But that's it, I can add it to pl's and view artist etc just can't listen. 😳",,,
-566343,@SpotifyCares What does means DM?. Thanx you,,,
-1220183,"Yo @SpotifyCares @115888, when are y'all launching in South Africa? 😥",,,
-513057,@SpotifyCares volume dropped to below half as a result of changing streaming from another device to phone. How do I get it back?,,,
-1691150,@SpotifyCares  Im paying for an account i cant get into at all ! Please help.,,,
+You're not yet letting users create true ""radio stations"" if it's just crossfaded (not segued) music with no control over timings and no host links - but.. you're SO close.. https://t.co/7Ua8IOADQo",General Inquiry,No,Radio station feature request
+150647,@SpotifyCares I have a £4.99/month student account. Why did you charge me £9.99 this month?!,Premium Billing,Yes,Student plan overcharged
+547892,um @spotifycares why isnt pencey prep on spotify anymore pls put it back,General Inquiry,No,Missing artist on spotify
+2264775,@SpotifyCares Thank you for the reply!,General Inquiry,No,thanked support
+2520094,@SpotifyCares My premium has been cancelled even though I have a receipt and paid for the month on the 26th of November. It won’t let me fix this and I am not happy.,Premium Billing,Yes,Premium cancelled after payment
+1148107,@SpotifyCares i’ve noticed it does it when my service switches from 3G to LTE or vice versa. Or if I do anything involving the internet.,Playback Issues,No,Pauses during network switch
+1238308,"@SpotifyCares Yes sir, thanks 👍",General Inquiry,No,Acknowledged support 
+2853001,"@SpotifyCares For some reason, I can't log in, even though I typed in the correct username and password.",Login & Account Access,No,Cannot log in with credentials
+2624179,"hi @SpotifyCares, i can't change my nickname back to before i'd connected my account with Facebook. after disconnection it still doesnt work",Login & Account Access,No,Nickname change after Facebook disconnect
+2148243,@SpotifyCares https://t.co/liSOs0cies,General Inquiry,No,Shared screenshot/link
+2070414,"@SpotifyCares when I listen to Bon Iver, it plays their songs, but shows other artists’ album covers and info instead.",Playback Issues,No,Wrong album artwork displayed
+557258,"@SpotifyCares Hi. As of a few days ago, my Android Spotify app will no longer send music to my Sonos system. It shows the devices, selecting them does nothing. The Sonos app can send to Sonos.  I uninstalled and reinstalled both apps.",Playback Issues,No,Android Spotify not connected to Sonos
+404756,"@SpotifyCares Any chance to in future add the option to sort the playlists one's following? As in: own pl's, spotify's, friends, ...?",General Inquiry,No,Playlist sorting feature request
+311699,@SpotifyCares Thank you much,General Inquiry,No,positive feedback
+226788,"@SpotifyCares Already done that too, wayyy ahead of you. No joy.",Playback Issues,No,troubleshooting already tried
+2802531,@SpotifyCares Sent through DM!,General Inquiry,No,DM sent 
+1897298,@SpotifyCares thank you!,General Inquiry,No,positive feedback
+1037626,"@SpotifyCares iP 7 Plus, iP Pro 10,5 &amp; iPAir. All runs iOS 10.3.3. Even the tracks offline simply don't open. I noticed this only in this band all tracks",Playback Issues,No,Offline track won't open
+429658,"@SpotifyCares yep, i get that, but the only option is Chile... do i need to move to another country to actually change my country?",Login & Account Access,No,Country change issue
+2718572,@SpotifyCares It happens on my xbox and samsung s7 edge and it should be the latest version of the app i tried a test account you gave me last time i said about the glitch and the same thing happened,Playback Issues,No,Cross-device playback glitch
+2890051,@SpotifyCares What do you mean of mobile provider? https://t.co/FvdcOx5rwK,Playback Issues,No,Mobile provider clarification
+223054,@SpotifyCares  I have to pay if I want to not shuffle through my own personal music that I own from CDs? Are you serious?,Premium Billing,No,Shuffle playback complaint
+2577781,"@SpotifyCares Yes, I saw it. thanks 😊",General Inquiry,No,Acknowleged support 
+327154,"@SpotifyCares whenever I play music on Spotify, it doesn’t come up on the control Centre on my phone so can’t change songs when out the app?",Playback Issues,No,Control center playback missing
+2692972,@SpotifyCares just sent you you a request by DM. Let me know if you can help. Thanks,General Inquiry,No,DM sent 
+699076,@SpotifyCares It’s the worst thing i have ever experienced.,General Inquiry,No,Negative service feedback 
+1643556,"@SpotifyCares hello spotify if you could please help me with this that would be great, i really need to listen to jessica simpson",General Inquiry,No,Missing artist request 
+1000265,@SpotifyCares Its saying 'It looks like you are using your Facebook credentials' so i log into my facebook to edited it and it still wont let me remove it,Login & Account Access,No,Facebook login credentials issue
+2051157,"@SpotifyCares hello, got an email that my email address was changed. I'm not behind the request. Can we DM?",Account Hacked,Yes,Unauthorised email change
+2449893,@SpotifyCares What's the deal here? Why the cap? https://t.co/4H1k7jlxhf,Premium Billing,No,Download cap inquiry 
+2598008,"@SpotifyCares No error message, a little gray bar pops up at the bottom of the screen when I tap a song but it doesn’t play at all :(",Playback Issues,No,"Songs won't play, no error"
+2276880,@SpotifyCares Will do,General Inquiry,No,Will follow up
+1739272,@SpotifyCares Tack!,General Inquiry,No,Thanked support
+2110155,@SpotifyCares I don’t have Spotify on my desktop. How can I get you the information you need from the phone app,Playback Issues,No,Mobile app device info
+2653183,@SpotifyCares 8.4.26.770 arm v7 🤔,Playback Issues,No,version info
+418214,"@SpotifyCares I used facebook to sign in before and now when I try logging in, it doesn't let me sign in with my facebook password nor my facebook itself.",Login & Account Access,No,facebook login issue
+2360629,@SpotifyCares I have an unknown device accessing my Spotify called “spotifyamb0.2.1” what should I do to make it so that the device can no longer connect???,Account Hacked,Yes,unknown device access
+1989704,2/2 is not from a country where Spotify is offered. This is clearly not true. Not sure if you don't want my business. @SpotifyCares,Login & Account Access,Yes,country availability error
+1490387,@SpotifyCares I finally fixed it by installing from the win10 app store ...,Playback Issues,No,Fixed by reinstalling app
+1352476,@SpotifyCares Even includes marching bands and drum lines. Thank you spotify.,General Inquiry,No,Positive feedback to spotify
+833501,@SpotifyCares primo,General Inquiry,No,positive feedback
+1146229,"@SpotifyCares any reason that when I create playlists it says ""by 21egqp37obp2ybundetm6q7ya"" and not my name? how do I change this?",Login & Account Access,No,Playlist displays username instead of name
+2277603,"@SpotifyCares Yes, have over 500 songs on one and there’s no easy way to get from top to bottom.",General Inquiry,No,Playlist navigation feature request
+2414538,@694027 @115888 @SpotifyCares updated to today’s version and the app just crashes on my X. sucks.,Playback Issues,No,App crashes after update
+341107,"@SpotifyCares But that's it, I can add it to pl's and view artist etc just can't listen. 😳",Playback Issues,No,Can browser but not play 
+566343,@SpotifyCares What does means DM?. Thanx you,General Inquiry,No,DM clarification
+1220183,"Yo @SpotifyCares @115888, when are y'all launching in South Africa? 😥",General Inquiry,No,spotify launch in south africa
+513057,@SpotifyCares volume dropped to below half as a result of changing streaming from another device to phone. How do I get it back?,Playback Issues,No,volume reduced after device switch
+1691150,@SpotifyCares  Im paying for an account i cant get into at all ! Please help.,Login & Account Access,Yes,paid account login issue
 97660,"@SpotifyCares I'm having trouble with the password you requested I reset. I keep getting an error message: The CSRF token is invalid. Please please resubmit form.
 
 Got a solution for me?",,,
